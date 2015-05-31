@@ -1,0 +1,107 @@
+.inddiv {
+  position: fixed; z-index: 9999 !important;
+  right: 0px; bottom: 0px; left: 0px;
+  width: auto; height: auto;
+}
+.inddiv .btn {
+  display: inline-block;
+  margin: 0px; padding: 6px 12px;
+  font-size: 12px; font-weight: normal;
+  text-align: center; white-space: nowrap;
+  vertical-align: middle; cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: 0px;
+}
+.inddiv .btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.inddiv .btn-default:hover {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.inddiv .btn-danger {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+.inddiv .btn-danger:hover {
+  color: #fff;
+  background-color: #c9302c;
+  border-color: #ac2925;
+}
+.inddiv .btn-success {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+.inddiv .btn-success:hover {
+  color: #fff;
+  background-color: #449d44;
+  border-color: #398439;
+}
+.indkeypop {
+  position: fixed; padding: 20px;
+  left: 0px; bottom: 46px;
+  width: 250px; height: auto;
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #FFF;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+.indkeypop a {
+  color: #337ab7;
+  text-decoration: none;
+}
+.indkeypop a:hover {
+  text-decoration: underline;
+}
+.indkeypop hr {
+  margin: 20px 0px;
+  border: 0px; border-top: 1px solid #eee;
+}
+.inddiv .indpickey {
+  position: fixed;
+  left: 0px; bottom: 0px;
+  width: 125px; height: 47px;
+  border-bottom: 0px; border-left: 0px;
+  border-radius: 0px; z-index: 9999;
+}
+.inddiv .indsubmit {
+  position: fixed;
+  left: 125px; bottom: 0px;
+  width: 125px; height: 47px;
+  border-bottom: 0px; border-left: 0px;
+  border-radius: 0px;
+}
+.inddiv .indinput {
+  position: fixed; padding: 0px 20px;
+  right: 48px; bottom: 0px; left: 248px;
+  width: auto; height: 46px; font-size: 12px;
+  border: 0px; border-top: 1px solid #ccc;
+  background: #fff; outline: none;
+}
+.inddiv .inderaser {
+  position: fixed;
+  right: 0px; bottom: 0px;
+  width: 50px; height: 47px;
+  border-bottom: 0px; border-right: 0px;
+  border-radius: 0px; color: #333;
+}
+.indtoggle {
+  position: fixed; z-index: 9999 !important;
+  margin: 0px; padding: 15px 20px;
+  top: 20px; left: 20px;
+  width: auto; height: auto;
+  text-align: center; font-size: 12px;
+  color: #fff; background: #337ab7;
+  opacity: 0.7; cursor: pointer;
+}
+.indtoggle:hover {
+  background: #204C73;
+  opacity: 0.9;
+}
