@@ -1,4 +1,9 @@
 # Ind
+OpenPGP Input Daemon
+
+### Demo
+<img src="ind.gif" />
+
     Ind - OpenPGP Input Daemon
     Copyright (c) 2015, Ryan Kennedy <ry@nkennedy.net>
   
